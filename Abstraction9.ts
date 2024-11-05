@@ -16,7 +16,7 @@
 
         abstract find(name: string):any;
    
-    }
+    }  
 
 
     class Students extends read {
