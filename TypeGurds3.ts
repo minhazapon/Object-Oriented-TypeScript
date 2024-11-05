@@ -47,9 +47,7 @@
            } else {
               console.log(`my ${user.name} `)
            }
-    }
-
-    
+    }    
     const normalU: NormalUser = {
         name: 'apon vai',
         role: 'admin vai'
